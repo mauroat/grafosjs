@@ -1,0 +1,182 @@
+{
+    "0": {
+        "id": 1,
+        "label": "Módem ISP",
+        "ip": "10.242.50.1",
+        "group": "modem"
+    },
+    "1": {
+        "id": 2,
+        "label": "Router",
+        "ip": "10.242.50.2",
+        "group": "router"
+    },
+    "2": {
+        "id": 3,
+        "label": "Firewall Meraki",
+        "ip": "10.242.50.3",
+        "group": "firewall"
+    },
+    "4": {
+        "id": 5,
+        "label": "Switch A",
+        "ip": "10.242.50.4",
+        "group": "switch"
+    },
+    "5": {
+        "id": 6,
+        "label": "Switch B",
+        "ip": "10.242.50.5",
+        "group": "switch"
+    },
+    "6": {
+        "id": 7,
+        "label": "Servidor IBM",
+        "ip": "10.242.50.6",
+        "group": "server"
+    },
+    "7": {
+        "id": 8,
+        "label": "Servidor HP 1",
+        "ip": "10.242.50.7",
+        "group": "server"
+    },
+    "8": {
+        "id": 9,
+        "label": "Servidor HP 2",
+        "ip": "10.242.50.8",
+        "group": "server"
+    },
+    "9": {
+        "id": 10,
+        "label": "Servidor Virtual Ubuntu 1",
+        "ip": "10.242.50.9",
+        "group": "vserver"
+    },
+    "10": {
+        "id": 11,
+        "label": "Servidor Virtual Ubuntu 2",
+        "ip": "10.242.50.10",
+        "group": "vserver"
+    },
+    "11": {
+        "id": 12,
+        "label": "Servidor Virtual Ubuntu 3",
+        "ip": "10.242.50.11",
+        "group": "vserver"
+    },
+    "12": {
+        "id": 13,
+        "label": "Servidor Virtual Ubuntu 4",
+        "ip": "10.242.50.12",
+        "group": "vserver"
+    },
+    "13": {
+        "id": 14,
+        "label": "Servidor Virtual Windows 1",
+        "ip": "10.242.50.13",
+        "group": "vserver"
+    },
+    "14": {
+        "id": 15,
+        "label": "Servidor Virtual Windows 2",
+        "ip": "10.242.50.14",
+        "group": "vserver"
+    },
+    "15": {
+        "id": 16,
+        "label": "Servidor Virtual Windows 3",
+        "ip": "10.242.50.15",
+        "group": "vserver"
+    },
+    "16": {
+        "id": 17,
+        "label": "Docker Redmine",
+        "ip": "10.242.50.16",
+        "group": "docker"
+    },
+    "17": {
+        "id": 18,
+        "label": "Docker SRI",
+        "ip": "10.242.50.17",
+        "group": "docker"
+    },
+    "18": {
+        "id": 19,
+        "label": "Docker Openfire",
+        "ip": "10.242.50.18",
+        "group": "docker"
+    },
+    "19": {
+        "id": 20,
+        "label": "Docker Jitsi Meet",
+        "ip": "10.242.50.19",
+        "group": "docker"
+    },
+    "20": {
+        "id": 21,
+        "label": "Docker Apache",
+        "ip": "10.242.50.20",
+        "group": "docker"
+    },
+    "21": {
+        "id": 22,
+        "label": "Docker Nginx",
+        "ip": "10.242.50.21",
+        "group": "docker"
+    },
+    "22": {
+        "id": 23,
+        "label": "Switch C",
+        "ip": "10.242.50.22",
+        "group": "switch"
+    },
+    "23": {
+        "id": 24,
+        "label": "Host 1",
+        "ip": "10.242.50.23",
+        "group": "host"
+    },
+    "24": {
+        "id": 25,
+        "label": "Host 2",
+        "ip": "10.242.50.24",
+        "group": "host"
+    },
+    "25": {
+        "id": 26,
+        "label": "Host 3",
+        "ip": "10.242.50.24",
+        "group": "host"
+    },
+    "26": {
+        "id": 27,
+        "label": "Host 4",
+        "ip": "10.242.50.25",
+        "group": "host"
+    },
+    "27": {
+        "id": 28,
+        "label": "Web Service Redmine",
+        "ip": "10.242.50.26",
+        "group": "ws"
+    },
+    "28": {
+        "id": 29,
+        "label": "Balanceador",
+        "ip": "10.242.50.27",
+        "group": "balancer"
+    },
+    "29": {
+        "id": 30,
+        "label": "Docker MySQL",
+        "ip": "10.242.50.28",
+        "group": "docker"
+    },
+    "30": {
+        "id": 31,
+        "label": "Docker PostgreSQL",
+        "ip": "10.242.50.29",
+        "group": "docker"
+    }
+}

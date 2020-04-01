@@ -1,0 +1,234 @@
+{
+    "0": {
+        "from": 1,
+        "to": 2,
+        "arrows": "from",
+        "relation": "cable",
+        "color": "blue",
+        "dashes": "true"
+    },
+    "1": {
+        "from": 2,
+        "to": 3,
+        "arrows": "to",
+        "relation": "cable",
+        "color": "blue",
+        "dashes": "true"
+    },
+    "2": {
+        "from": 2,
+        "to": 29,
+        "arrows": "to",
+        "relation": "cable",
+        "color": "blue",
+        "dashes": "true"
+    },
+    "3": {
+        "from": 29,
+        "to": 5,
+        "arrows": "to",
+        "relation": "cable",
+        "color": "blue",
+        "dashes": "true"
+    },
+    "4": {
+        "from": 29,
+        "to": 6,
+        "arrows": "to",
+        "relation": "cable",
+        "color": "blue",
+        "dashes": "true"
+    },
+    "5": {
+        "from": 29,
+        "to": 23,
+        "arrows": "to",
+        "relation": "cable",
+        "color": "blue",
+        "dashes": "true"
+    },
+    "6": {
+        "from": 23,
+        "to": 27,
+        "arrows": "to",
+        "relation": "cable",
+        "color": "blue",
+        "dashes": "true"
+    },
+    "7": {
+        "from": 6,
+        "to": 25,
+        "arrows": "to",
+        "relation": "cable",
+        "color": "blue",
+        "dashes": "true"
+    },
+    "8": {
+        "from": 6,
+        "to": 26,
+        "arrows": "to",
+        "relation": "cable",
+        "color": "blue",
+        "dashes": "true"
+    },
+    "9": {
+        "from": 5,
+        "to": 7,
+        "arrows": "to",
+        "relation": "cable",
+        "color": "blue",
+        "dashes": "true"
+    },
+    "10": {
+        "from": 5,
+        "to": 8,
+        "arrows": "to",
+        "relation": "cable",
+        "color": "blue",
+        "dashes": "true"
+    },
+    "11": {
+        "from": 5,
+        "to": 9,
+        "arrows": "to",
+        "relation": "cable",
+        "color": "blue",
+        "dashes": "true"
+    },
+    "12": {
+        "from": 7,
+        "to": 10,
+        "arrows": "to",
+        "relation": "cable",
+        "color": "blue",
+        "dashes": "true"
+    },
+    "13": {
+        "from": 7,
+        "to": 11,
+        "arrows": "to",
+        "relation": "cable",
+        "color": "blue",
+        "dashes": "true"
+    },
+    "14": {
+        "from": 7,
+        "to": 12,
+        "arrows": "to",
+        "relation": "cable",
+        "color": "blue",
+        "dashes": "true"
+    },
+    "15": {
+        "from": 8,
+        "to": 14,
+        "arrows": "to",
+        "relation": "cable",
+        "color": "blue",
+        "dashes": "true"
+    },
+    "16": {
+        "from": 8,
+        "to": 15,
+        "arrows": "to",
+        "relation": "cable",
+        "color": "blue",
+        "dashes": "true"
+    },
+    "17": {
+        "from": 9,
+        "to": 13,
+        "arrows": "to",
+        "relation": "cable",
+        "color": "blue",
+        "dashes": "true"
+    },
+    "18": {
+        "from": 9,
+        "to": 16,
+        "arrows": "to",
+        "relation": "cable",
+        "color": "blue",
+        "dashes": "true"
+    },
+    "19": {
+        "from": 10,
+        "to": 17,
+        "arrows": "to",
+        "relation": "cable",
+        "color": "blue",
+        "dashes": "true"
+    },
+    "20": {
+        "from": 10,
+        "to": 18,
+        "arrows": "to",
+        "relation": "wireless",
+        "color": "red",
+        "dashes": "true"
+    },
+    "21": {
+        "from": 11,
+        "to": 19,
+        "arrows": "to",
+        "relation": "cable",
+        "color": "blue",
+        "dashes": "true"
+    },
+    "22": {
+        "from": 12,
+        "to": 20,
+        "arrows": "to",
+        "relation": "wireless",
+        "color": "red",
+        "dashes": "true"
+    },
+    "23": {
+        "from": 12,
+        "to": 21,
+        "arrows": "to",
+        "relation": "cable",
+        "color": "blue",
+        "dashes": "true"
+    },
+    "24": {
+        "from": 14,
+        "to": 22,
+        "arrows": "to",
+        "relation": "cable",
+        "color": "blue",
+        "dashes": "true"
+    },
+    "25": {
+        "from": 15,
+        "to": 30,
+        "arrows": "to",
+        "relation": "wireless",
+        "color": "red",
+        "dashes": "true"
+    },
+    "26": {
+        "from": 13,
+        "to": 31,
+        "arrows": "to",
+        "relation": "wireless",
+        "color": "red",
+        "dashes": "true"
+    },
+    "27": {
+        "from": 17,
+        "to": 28,
+        "arrows": "to",
+        "relation": "wireless",
+        "color": "red",
+        "dashes": "true"
+    },
+    "28": {
+        "from": 23,
+        "to": 24,
+        "arrows": "to",
+        "relation": "wireless",
+        "color": "red",
+        "dashes": "true"
+    }
+}

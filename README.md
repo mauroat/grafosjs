@@ -9,7 +9,7 @@ Base project for adding nodes and relationship graphs to a website.
 * Webserver Apache or Nginx
 * PHP
 
-### Installation 🔧
+### Installation 🔧 
 Download project in your public webserver's folder.
 For example, if you are using Apache...
 

@@ -1,0 +1,57 @@
+{
+    "0": {
+        "id": 9000,
+        "label": "Módem",
+        "group": "modem"
+    },
+    "1": {
+        "id": 9001,
+        "label": "Router",
+        "group": "router"
+    },
+    "2": {
+        "id": 9002,
+        "label": "Firewall",
+        "group": "firewall"
+    },
+    "3": {
+        "id": 9003,
+        "label": "Balanceador de carga",
+        "group": "balancer"
+    },
+    "4": {
+        "id": 9004,
+        "label": "Servidor físico",
+        "group": "server"
+    },
+    "5": {
+        "id": 9005,
+        "label": "Servidor virtual",
+        "group": "vserver"
+    },
+    "6": {
+        "id": 9006,
+        "label": "Docker",
+        "group": "docker"
+    },
+    "7": {
+        "id": 9007,
+        "label": "Base de datos",
+        "group": "database"
+    },
+    "8": {
+        "id": 9008,
+        "label": "Webservice",
+        "group": "ws"
+    },
+    "9": {
+        "id": 9009,
+        "label": "Switch",
+        "group": "switch"
+    },
+    "10": {
+        "id": 9010,
+        "label": "Host",
+        "group": "host"
+    }
+}
