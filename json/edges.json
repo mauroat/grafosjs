@@ -2,7 +2,7 @@
     "0": {
         "from": 1,
         "to": 2,
-        "arrows": "from",
+        "arrows": "to",
         "relation": "cable",
         "color": "blue",
         "dashes": "true"

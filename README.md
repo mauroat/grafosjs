@@ -22,7 +22,7 @@ For example, if you are using Apache...
 
 ## Version 📌
 
-1.0
+2.0
 
 ## Author ✒️
 
